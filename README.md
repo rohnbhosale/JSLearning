@@ -1,1 +1,1 @@
-# JSLearning
+# BMI-calculator
